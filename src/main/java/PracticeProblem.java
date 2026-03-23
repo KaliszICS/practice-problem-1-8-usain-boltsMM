@@ -56,10 +56,10 @@ class PracticeProblem {
 		static Scanner a = new Scanner(System.in);
 		// From input recieve two numbers (can be decimal fractions).  
 		// Output the first number plus two, then multiplied by the second number.
-		Double num1;
+		double num1;
 		System.out.print("Input a number: ");
 		num1 = a.nextDouble();
-		Double num2;
+	 	double num2;
 		System.out.print("Input a number: ");
 		num2 = a.nextDouble();
 		
